@@ -1,0 +1,5 @@
+1. generate random rectangle with sides 1 to 6
+2. first rectangle fix into corner, your friend into opposite corner
+3. every next rectangle fix to your territory
+4. if player cannot fix the rectangle, game is over
+5. player with biger territory won
